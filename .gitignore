@@ -1,14 +1,14 @@
 new file:   practice-site/.eslintrc.cjs
-#	new file:   practice-site/.gitignore
-#	new file:   practice-site/index.html
-#	new file:   practice-site/package.json
-#	new file:   practice-site/public/vite.svg
-#	new file:   practice-site/src/App.css
-#	new file:   practice-site/src/App.jsx
-#	new file:   practice-site/src/assets/react.svg
-#	new file:   practice-site/src/index.css
-#	new file:   practice-site/src/main.jsx
-#	new file:   practice-site/style.css
-#	new file:   practice-site/style.css.map
-#	new file:   practice-site/style.scss
-#	new file:   practice-site/vite.config.js
+	new file:   practice-site/.gitignore
+	new file:   practice-site/index.html
+	new file:   practice-site/package.json
+	new file:   practice-site/public/vite.svg
+new file:   practice-site/src/App.css
+	new file:   practice-site/src/App.jsx
+	new file:   practice-site/src/assets/react.svg
+	new file:   practice-site/src/index.css
+	new file:   practice-site/src/main.jsx
+	new file:   practice-site/style.css
+	new file:   practice-site/style.css.map
+	new file:   practice-site/style.scss
+	new file:   practice-site/vite.config.js
